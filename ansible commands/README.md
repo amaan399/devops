@@ -1,5 +1,7 @@
 Ansible installation:
 after coonecting to instance --> check for python --> if python is not installed; yum install python-pip --> pip install ansible
+steps for ansible:-
+
 
 working with ansible:-
 ansible all -m ping
